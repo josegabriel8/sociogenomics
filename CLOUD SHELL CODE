@@ -1,4 +1,4 @@
-# Part 1
+# Part 1 (Everything should work just copy and pasting)
 
 ## For Install plink, (I installed it in the $HOME directory)
 wget https://s3.amazonaws.com/plink1-assets/plink_linux_x86_64_20230116.zip
